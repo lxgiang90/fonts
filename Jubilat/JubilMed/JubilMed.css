@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'JubilMed';
+    src: url('fonts/JubilMed.eot');
+    src: url('fonts/JubilMed.eot') format('embedded-opentype'),
+         url('fonts/JubilMed.woff2') format('woff2'),
+         url('fonts/JubilMed.woff') format('woff'),
+         url('fonts/JubilMed.ttf') format('truetype'),
+         url('fonts/JubilMed.svg#JubilMed') format('svg');
+}

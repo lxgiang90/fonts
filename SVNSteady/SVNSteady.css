@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SVNSteady';
+    src: url('fonts/SVNSteady.eot');
+    src: url('fonts/SVNSteady.eot') format('embedded-opentype'),
+         url('fonts/SVNSteady.woff2') format('woff2'),
+         url('fonts/SVNSteady.woff') format('woff'),
+         url('fonts/SVNSteady.ttf') format('truetype'),
+         url('fonts/SVNSteady.svg#SVNSteady') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HelveticaNeueLTStdBlk';
+    src: url('fonts/HelveticaNeueLTStdBlk.eot');
+    src: url('fonts/HelveticaNeueLTStdBlk.eot') format('embedded-opentype'),
+         url('fonts/HelveticaNeueLTStdBlk.woff2') format('woff2'),
+         url('fonts/HelveticaNeueLTStdBlk.woff') format('woff'),
+         url('fonts/HelveticaNeueLTStdBlk.ttf') format('truetype'),
+         url('fonts/HelveticaNeueLTStdBlk.svg#HelveticaNeueLTStdBlk') format('svg');
+}

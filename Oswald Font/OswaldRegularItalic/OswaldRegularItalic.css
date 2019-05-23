@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OswaldRegularItalic';
+    src: url('fonts/OswaldRegularItalic.eot');
+    src: url('fonts/OswaldRegularItalic.eot') format('embedded-opentype'),
+         url('fonts/OswaldRegularItalic.woff2') format('woff2'),
+         url('fonts/OswaldRegularItalic.woff') format('woff'),
+         url('fonts/OswaldRegularItalic.ttf') format('truetype'),
+         url('fonts/OswaldRegularItalic.svg#OswaldRegularItalic') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'faithandglorytwo_2';
+    src: url('fonts/faithandglorytwo_2.eot');
+    src: url('fonts/faithandglorytwo_2.eot') format('embedded-opentype'),
+         url('fonts/faithandglorytwo_2.woff2') format('woff2'),
+         url('fonts/faithandglorytwo_2.woff') format('woff'),
+         url('fonts/faithandglorytwo_2.ttf') format('truetype'),
+         url('fonts/faithandglorytwo_2.svg#faithandglorytwo_2') format('svg');
+}

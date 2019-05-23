@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'JubilatLight';
+    src: url('fonts/JubilatLight.eot');
+    src: url('fonts/JubilatLight.eot') format('embedded-opentype'),
+         url('fonts/JubilatLight.woff2') format('woff2'),
+         url('fonts/JubilatLight.woff') format('woff'),
+         url('fonts/JubilatLight.ttf') format('truetype'),
+         url('fonts/JubilatLight.svg#JubilatLight') format('svg');
+}

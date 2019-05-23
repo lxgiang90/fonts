@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'JubilatBold';
+    src: url('fonts/JubilatBold.eot');
+    src: url('fonts/JubilatBold.eot') format('embedded-opentype'),
+         url('fonts/JubilatBold.woff2') format('woff2'),
+         url('fonts/JubilatBold.woff') format('woff'),
+         url('fonts/JubilatBold.ttf') format('truetype'),
+         url('fonts/JubilatBold.svg#JubilatBold') format('svg');
+}

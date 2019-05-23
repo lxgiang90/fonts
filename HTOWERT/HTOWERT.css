@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HTOWERT';
+    src: url('fonts/HTOWERT.eot');
+    src: url('fonts/HTOWERT.eot') format('embedded-opentype'),
+         url('fonts/HTOWERT.woff2') format('woff2'),
+         url('fonts/HTOWERT.woff') format('woff'),
+         url('fonts/HTOWERT.ttf') format('truetype'),
+         url('fonts/HTOWERT.svg#HTOWERT') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SVNMaphylla';
+    src: url('fonts/SVNMaphylla.eot');
+    src: url('fonts/SVNMaphylla.eot') format('embedded-opentype'),
+         url('fonts/SVNMaphylla.woff2') format('woff2'),
+         url('fonts/SVNMaphylla.woff') format('woff'),
+         url('fonts/SVNMaphylla.ttf') format('truetype'),
+         url('fonts/SVNMaphylla.svg#SVNMaphylla') format('svg');
+}

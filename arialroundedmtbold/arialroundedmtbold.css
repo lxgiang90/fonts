@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'arialroundedmtbold';
+    src: url('fonts/arialroundedmtbold.eot');
+    src: url('fonts/arialroundedmtbold.eot') format('embedded-opentype'),
+         url('fonts/arialroundedmtbold.woff2') format('woff2'),
+         url('fonts/arialroundedmtbold.woff') format('woff'),
+         url('fonts/arialroundedmtbold.ttf') format('truetype'),
+         url('fonts/arialroundedmtbold.svg#arialroundedmtbold') format('svg');
+}

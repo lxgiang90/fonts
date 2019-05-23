@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'OswaldDemiBoldItalic';
+    src: url('fonts/OswaldDemiBoldItalic.eot');
+    src: url('fonts/OswaldDemiBoldItalic.eot') format('embedded-opentype'),
+         url('fonts/OswaldDemiBoldItalic.woff2') format('woff2'),
+         url('fonts/OswaldDemiBoldItalic.woff') format('woff'),
+         url('fonts/OswaldDemiBoldItalic.ttf') format('truetype'),
+         url('fonts/OswaldDemiBoldItalic.svg#OswaldDemiBoldItalic') format('svg');
+}

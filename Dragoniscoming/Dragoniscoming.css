@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Dragoniscoming';
+    src: url('fonts/Dragoniscoming.eot');
+    src: url('fonts/Dragoniscoming.eot') format('embedded-opentype'),
+         url('fonts/Dragoniscoming.woff2') format('woff2'),
+         url('fonts/Dragoniscoming.woff') format('woff'),
+         url('fonts/Dragoniscoming.ttf') format('truetype'),
+         url('fonts/Dragoniscoming.svg#Dragoniscoming') format('svg');
+}

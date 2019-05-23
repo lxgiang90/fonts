@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'VL_Kahitna';
+    src: url('fonts/VL_Kahitna.eot');
+    src: url('fonts/VL_Kahitna.eot') format('embedded-opentype'),
+         url('fonts/VL_Kahitna.woff2') format('woff2'),
+         url('fonts/VL_Kahitna.woff') format('woff'),
+         url('fonts/VL_Kahitna.ttf') format('truetype'),
+         url('fonts/VL_Kahitna.svg#VL_Kahitna') format('svg');
+}

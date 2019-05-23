@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MontserratHairline';
+    src: url('fonts/MontserratHairline.eot');
+    src: url('fonts/MontserratHairline.eot') format('embedded-opentype'),
+         url('fonts/MontserratHairline.woff2') format('woff2'),
+         url('fonts/MontserratHairline.woff') format('woff'),
+         url('fonts/MontserratHairline.ttf') format('truetype'),
+         url('fonts/MontserratHairline.svg#MontserratHairline') format('svg');
+}

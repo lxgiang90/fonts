@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Dry Brush';
+  src: url('Dry Brush.eot');
+  src: url('Dry Brush.woff2') format('woff2'),
+       url('Dry Brush.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DryBrush';
+  src: url('DryBrush.woff') format('woff'),
+       url('DryBrush.ttf') format('truetype'),
+       url('DryBrush.svg#DryBrush') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+

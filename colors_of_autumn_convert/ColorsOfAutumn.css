@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ColorsOfAutumn';
+    src: url('fonts/ColorsOfAutumn.eot');
+    src: url('fonts/ColorsOfAutumn.eot') format('embedded-opentype'),
+         url('fonts/ColorsOfAutumn.woff2') format('woff2'),
+         url('fonts/ColorsOfAutumn.woff') format('woff'),
+         url('fonts/ColorsOfAutumn.ttf') format('truetype'),
+         url('fonts/ColorsOfAutumn.svg#ColorsOfAutumn') format('svg');
+}

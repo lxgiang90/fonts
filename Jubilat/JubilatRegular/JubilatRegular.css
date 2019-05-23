@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'JubilatRegular';
+    src: url('fonts/JubilatRegular.eot');
+    src: url('fonts/JubilatRegular.eot') format('embedded-opentype'),
+         url('fonts/JubilatRegular.woff2') format('woff2'),
+         url('fonts/JubilatRegular.woff') format('woff'),
+         url('fonts/JubilatRegular.ttf') format('truetype'),
+         url('fonts/JubilatRegular.svg#JubilatRegular') format('svg');
+}
